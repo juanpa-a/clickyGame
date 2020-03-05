@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Deadpool",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Mask-icon.png",
+      "occupation": "Hero",
+      "location": "New York"
+    },
+    {
+      "id": 2,
+      "name": "The Joker",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Batman-Joker-icon.png",
+      "occupation": "Villian",
+      "location": "Gotham City"
+    },
+    {
+      "id": 3,
+      "name": "Wolvorine",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Logan-icon.png",
+      "occupation": "Hero",
+      "location": "X-men mansion"
+    },
+    {
+      "id": 4,
+      "name": "Spider Man",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Spiderman-Baby-icon.png",
+      "occupation": "Hero",
+      "location": "New York"
+    },
+    {
+      "id": 5,
+      "name": "Batman",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Batman-icon.png",
+      "occupation": "Hero",
+      "location": "Gotham City"
+    },
+    {
+      "id": 6,
+      "name": "Super man",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Older-Superman-icon.png",
+      "occupation": "Hero",
+      "location": "i don't know"
+    },
+    {
+      "id": 7,
+      "name": "Silver Surfer",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Silver-Surfer-icon.png",
+      "occupation": "??",
+      "location": "??"
+    },
+    {
+      "id": 8,
+      "name": "Captain America",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Captain-America-icon.png",
+      "occupation": "Hero",
+      "location": "Washington DC?"
+    },
+    {
+      "id": 9,
+      "name": "Spider Woman",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Spiderwoman-icon.png",
+      "occupation": "Hero",
+      "location": "New York"
+    },
+    {
+      "id": 10,
+      "name": "Hulking Sulking",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Hulkling-Sulking-icon.png",
+      "occupation": "Hero?",
+      "location": "California"
+    },
+    {
+      "id": 11,
+      "name": "Daredevil",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Face-Afraid-icon.png",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Magneto",
+      "image": "http://icons.iconarchive.com/icons/mattahan/ultrabuuf/128/Comics-Magneto-icon.png",
+      "occupation": "Villian",
+      "location": "Earth"
+    }
+  ]
+  
